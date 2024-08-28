@@ -1,2 +1,1 @@
-# tag-practice
-Code from week 1
+# W01-TagExercise
